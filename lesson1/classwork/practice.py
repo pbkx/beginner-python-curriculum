@@ -30,6 +30,6 @@ print(last_name)
 # Print them on the same line in a full sentence.
 
 first_name = ma
-age = 17
+age = 17.5
 favorite_color = "purple"
 print("My name is", first_name, "my age is", age, "and my favorite color is", favorite_color)
