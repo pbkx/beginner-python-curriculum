@@ -25,6 +25,7 @@ last_name = chen
 print(first_name)
 print(last_name)
 
+
 # Problem 5
 # Create 3 variables: your first name, your age, and your favorite color.
 # Print them on the same line in a full sentence.
